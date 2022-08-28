@@ -1,0 +1,110 @@
+1 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0162305 seconds
+Time to perform parallelized tiled matrix multiplication: 0.942448 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0923485 seconds
+Time to perform parallelized tiled matrix multiplication: 9.43239 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.247595 seconds
+Time to perform parallelized tiled matrix multiplication: 80.0023 seconds
+
+2 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0160681 seconds
+Time to perform parallelized tiled matrix multiplication: 0.484346 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0919415 seconds
+Time to perform parallelized tiled matrix multiplication: 4.78676 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.247905 seconds
+Time to perform parallelized tiled matrix multiplication: 40.616 seconds
+
+4 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.014914 seconds
+Time to perform parallelized tiled matrix multiplication: 0.26758 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0924102 seconds
+Time to perform parallelized tiled matrix multiplication: 2.59712 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.247925 seconds
+Time to perform parallelized tiled matrix multiplication: 21.9145 seconds
+
+8 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0169726 seconds
+Time to perform parallelized tiled matrix multiplication: 0.146883 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0925581 seconds
+Time to perform parallelized tiled matrix multiplication: 1.40793 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248103 seconds
+Time to perform parallelized tiled matrix multiplication: 11.8637 seconds
+
+12 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0158196 seconds
+Time to perform parallelized tiled matrix multiplication: 0.102949 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0925337 seconds
+Time to perform parallelized tiled matrix multiplication: 1.01015 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248095 seconds
+Time to perform parallelized tiled matrix multiplication: 8.46575 seconds
+
+14 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0166365 seconds
+Time to perform parallelized tiled matrix multiplication: 0.0949097 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0941191 seconds
+Time to perform parallelized tiled matrix multiplication: 0.920979 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.250956 seconds
+Time to perform parallelized tiled matrix multiplication: 7.75357 seconds
+
+16 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0145981 seconds
+Time to perform parallelized tiled matrix multiplication: 0.0802652 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0925132 seconds
+Time to perform parallelized tiled matrix multiplication: 0.789956 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248306 seconds
+Time to perform parallelized tiled matrix multiplication: 6.52814 seconds
+
+20 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0149477 seconds
+Time to perform parallelized tiled matrix multiplication: 0.0717189 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0925476 seconds
+Time to perform parallelized tiled matrix multiplication: 0.724285 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248099 seconds
+Time to perform parallelized tiled matrix multiplication: 5.78067 seconds
+
+24 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0161562 seconds
+Time to perform parallelized tiled matrix multiplication: 0.0645167 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.092356 seconds
+Time to perform parallelized tiled matrix multiplication: 0.657048 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248173 seconds
+Time to perform parallelized tiled matrix multiplication: 5.10533 seconds
+
+28 Threads
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0149441 seconds
+Time to perform parallelized tiled matrix multiplication: 0.056187 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0918991 seconds
+Time to perform parallelized tiled matrix multiplication: 0.584853 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248236 seconds
+Time to perform parallelized tiled matrix multiplication: 4.43156 seconds
+

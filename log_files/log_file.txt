@@ -1,0 +1,120 @@
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0156792 seconds
+Time to perform matrix multiplication: 1.24249 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0928385 seconds
+Time to perform matrix multiplication: 19.5882 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.24725 seconds
+Time to perform matrix multiplication: 185.546 seconds
+
+Threaded NonTiling Below:
+1 Thread:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0158227 seconds
+Time to perform matrix multiplication: 1.0646 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.094083 seconds
+Time to perform matrix multiplication: 19.7464 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.256866 seconds
+Time to perform matrix multiplication: 182.101 seconds
+
+2 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0168707 seconds
+Time to perform matrix multiplication: 0.558476 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0936133 seconds
+Time to perform matrix multiplication: 10.7861 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249983 seconds
+Time to perform matrix multiplication: 94.8713 seconds
+
+4 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0163433 seconds
+Time to perform matrix multiplication: 0.30112 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0964756 seconds
+Time to perform matrix multiplication: 5.63109 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.248938 seconds
+Time to perform matrix multiplication: 45.4885 seconds
+
+8 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0176795 seconds
+Time to perform matrix multiplication: 0.158109 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0966023 seconds
+Time to perform matrix multiplication: 3.0213 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249693 seconds
+Time to perform matrix multiplication: 23.02 seconds
+
+12 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0177201 seconds
+Time to perform matrix multiplication: 0.11114 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0934373 seconds
+Time to perform matrix multiplication: 2.06997 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249401 seconds
+Time to perform matrix multiplication: 16.7564 seconds
+
+14 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0179114 seconds
+Time to perform matrix multiplication: 0.0948803 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0937632 seconds
+Time to perform matrix multiplication: 1.79145 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249527 seconds
+Time to perform matrix multiplication: 13.9113 seconds
+
+16 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0181722 seconds
+Time to perform matrix multiplication: 0.084982 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.098682 seconds
+Time to perform matrix multiplication: 1.63951 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.25712 seconds
+Time to perform matrix multiplication: 12.7485 seconds
+
+20 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0178226 seconds
+Time to perform matrix multiplication: 0.0720523 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0964907 seconds
+Time to perform matrix multiplication: 1.42762 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249431 seconds
+Time to perform matrix multiplication: 10.2093 seconds
+
+24 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0183747 seconds
+Time to perform matrix multiplication: 0.0628789 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0991407 seconds
+Time to perform matrix multiplication: 1.17834 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.263031 seconds
+Time to perform matrix multiplication: 8.16814 seconds
+
+28 Threads:
+Dimensions: 1000x1000x1000
+Time to fill both matrices: 0.0166124 seconds
+Time to perform matrix multiplication: 0.0585422 seconds
+Dimensions: 1000x2000x5000
+Time to fill both matrices: 0.0934013 seconds
+Time to perform matrix multiplication: 0.890613 seconds
+Dimensions: 9000x2500x3750
+Time to fill both matrices: 0.249134 seconds
+Time to perform matrix multiplication: 6.96754 seconds
